@@ -1,3 +1,6 @@
+## [0.0.12+1] - Jun 04, 2022
+* Renaming & updateing to new Flutter version
+
 ## [0.0.11+2] - Dec 14, 2021
 * Avoid tooltip area gesture detection for manual trigger mode. Credit @Pavel-Sulimau
 
