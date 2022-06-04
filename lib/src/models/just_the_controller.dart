@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:just_the_tooltip/just_the_tooltip.dart';
+import 'package:just_the_tooltip2/just_the_tooltip.dart';
 
 enum TooltipStatus { isShowing, isHidden }
 

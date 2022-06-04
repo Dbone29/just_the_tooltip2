@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:just_the_tooltip/just_the_tooltip.dart';
+import 'package:just_the_tooltip2/just_the_tooltip.dart';
 
 void _ensureTooltipVisible(GlobalKey key) {
   // This function uses "as dynamic"to defeat the static analysis. In general
